@@ -14,6 +14,18 @@
 
 <br>
 
+<table align="center">
+<tr><th>📍 Locations</th></tr>
+<tr><td>
+
+|<img width="16px" height="16px" src="https://github.com/xykgroup/.github/raw/main/profile/logo-miami.svg" alt="🌴"> Miami|<img width="16px" height="16px" src="https://github.com/xykgroup/.github/raw/main/profile/logo-toronto.svg" alt="🇨🇦"> Toronto|
+:---:|:---:
+|Est. 2023|Est. 2023|
+
+</td></tr> </table>
+
+<br>
+
 <h3 align="center">🌎 Profile Views</h3>
 
 <p align="center">
