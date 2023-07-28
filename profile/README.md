@@ -6,7 +6,7 @@
 <tr><th>👥 Socials</th></tr>
 <tr><td>
 
-|<img width="16px" height="16px" src="https://github.com/xykgroup/.github/raw/main/public/logo-twitter.svg" alt="🐥"> Twitter|
+|<img width="16px" height="16px" src="https://github.com/xykgroup/.github/raw/main/profile/logo-twitter.svg" alt="🐥"> Twitter|
 :---:
 |[@xykgroup](https://twitter.com/xykgroup)|
 
